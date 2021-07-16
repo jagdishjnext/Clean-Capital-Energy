@@ -1,3 +1,4 @@
 <?php
-echo "Helllo1dsf";
+echo "string1";
+echo "string2";
 ?>
